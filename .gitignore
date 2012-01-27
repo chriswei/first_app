@@ -14,4 +14,9 @@
 /log/*.log
 /tmp
 vendor/bundle/ruby
+doc/
+*.swp
+*~
+.project
+.DS_Store
 
